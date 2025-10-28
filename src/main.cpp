@@ -41,7 +41,7 @@ void handleRoot() {
   pre{white-space:pre-wrap;word-wrap:break-word;padding:14px;margin:0}
   small{opacity:.7}
 </style></head><body>
-<header>Front Door Monitor <small>(auto updates bing bong)</small></header>
+<header>Front Door Monitor <small>(auto updates)</small></header>
 <pre id="out">Loading…</pre>
 <script>
 async function pull(){
